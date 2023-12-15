@@ -24,7 +24,7 @@ class InvKeep : EasyPlugin(), Listener {
                 reloadConfig()
                 sender.sendMessage("重载完成")
             }
-        }
+        }.register()
     }
 
     @EventHandler(priority = EventPriority.HIGHEST)
