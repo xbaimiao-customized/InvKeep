@@ -4,7 +4,7 @@ plugins {
     kotlin("jvm") version "1.9.20"
 }
 
-group = "com.xbaimiao.template"
+group = "com.xbaimiao.invKeep"
 version = "1.0.0"
 
 repositories {

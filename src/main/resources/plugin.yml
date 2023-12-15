@@ -1,5 +1,5 @@
-main: com.xbaimiao.template.EasyTemplate
-name: EasyTemplate
+main: com.xbaimiao.invKeep.InvKeep
+name: InvKeep
 version: 1.0.0
 authors:
   - xbaimiao
